@@ -8,5 +8,5 @@ header h1 {float: left; padding: 10px;}
 header h1 a {color: #fff; font-size: 2em; font-weight: 300;}
 header nav {float: right; padding: 10px;}
 header nav ul li {display: inline-block; margin-left: 20px;}
-header nav ul li a {color: #fff; display: block; border: 1px solid #ccc; font-size: 1.25em; padding: 5px 10px 8px; line-height: 1; border-radius: 5px;}
+header nav ul li a {color: #fff; display: block; border: 1px solid #ccc; font-size: 1.25em; padding: 5px 10px 8px; line-height: 1; border-radius: 5px; -webkit-transition: all 100ms linear; -o-transition: all 100ms linear; transition: all 100ms linear;}
 header nav ul li a:hover {background-color: #fff; color: #000;}
