@@ -1,0 +1,12 @@
+* {margin: 0; padding: 0; list-style: none; font-size: 1em; font-weight: normal;}
+body {font-size: 10pt;}
+a {text-decoration: none;}
+img {max-width: 100%;}
+
+header {overflow: hidden; background-color: #000;}
+header h1 {float: left; padding: 10px;}
+header h1 a {color: #fff; font-size: 2em; font-weight: 300;}
+header nav {float: right; padding: 10px;}
+header nav ul li {display: inline-block; margin-left: 20px;}
+header nav ul li a {color: #fff; display: block; border: 1px solid #ccc; font-size: 1.25em; padding: 5px 10px 8px; line-height: 1; border-radius: 5px;}
+header nav ul li a:hover {background-color: #fff; color: #000;}
